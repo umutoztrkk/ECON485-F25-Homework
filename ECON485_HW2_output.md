@@ -1,6 +1,6 @@
 # ECON485 – Homework 2 (Terminal Output)
 
-## Part 1a – Create Tables and Database
+## All parts
 
 ```sql
 MariaDB [(none)]> CREATE DATABASE econ485_hw;
